@@ -8,4 +8,4 @@ This is a training repository
 Este cambio lo debo de ver en mi repo privado
 
 Estos cambios son correctos
-Pero no son duraderos.
+y si son duraderos.
