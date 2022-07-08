@@ -6,3 +6,6 @@ This is a training repository
 
 #### Cambio hecho en github
 Este cambio lo debo de ver en mi repo privado
+
+Estos cambios son correctos
+Pero no son duraderos.
